@@ -1,7 +1,7 @@
 # 🔐 Secure Access: Upgraded Password-Based Door Lock and Home Automation System
 
 A dual-microcontroller secure access and home control system based on the 8051 microcontroller. This enhanced version upgrades the traditional password-protected door lock system by introducing **I²C communication** between two microcontrollers, enabling advanced functionality such as lighting and air conditioning control after secure access.
-The old version [Password-Protected Door Lock System](https://github.com/Farida-Waheed/Password-Protected-Door-Lock-System)
+The Original Project [Password-Protected Door Lock System](https://github.com/Farida-Waheed/Password-Protected-Door-Lock-System)
 
 ---
 
