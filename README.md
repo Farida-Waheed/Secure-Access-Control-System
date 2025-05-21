@@ -185,10 +185,13 @@ This project introduces a **dual-8051 microcontroller system** for a secure, pas
 ## 📷 Screenshots
 
 * First Microcontroller Breadboard
+  
 ![image](https://github.com/user-attachments/assets/24ff9ecc-ed45-40cd-88a1-b8d4e77f4c8b)
 * Second Microcontroller Breadboard
+  
 ![image](https://github.com/user-attachments/assets/d8dab038-6dff-4655-a477-0256966f3098)
 * Serial Communication Breadboard
+  
 ![image](https://github.com/user-attachments/assets/024de99a-b0e8-4a8a-ba5f-50e1cd283d98)
 
 
